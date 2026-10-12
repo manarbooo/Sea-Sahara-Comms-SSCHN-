@@ -152,12 +152,6 @@ Use the reception timestamp for events recorded by the laptop. Store device-gene
 7. Build the dashboard and SOS display.
 8. Integrate components and test failures, persistence, and radio performance.
 
-## 9. Related Project Files
 
-- `01-project-brief.md` — project overview and scope
-- `02-system-architecture.png` — system architecture diagram
-- `03-requirements.md` — functional and technical requirements
-- `04-hardware-bom.xlsx` — proposed hardware and components
-- `06-development-roadmap.md` — implementation milestones
 
 **Design principle:** Build and test each layer independently before integrating the complete system.
